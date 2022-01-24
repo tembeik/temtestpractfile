@@ -1,0 +1,1 @@
+Quick question: when creating a jenkinsfile for a Pipeline as code, and you want your pipeline to run on a particular node and you don’t want to declare the agent as ‘any’ how do you do that?
