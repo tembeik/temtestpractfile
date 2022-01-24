@@ -1,1 +1,19 @@
-This may help others…if you use terraform to create your instances, make sure you configure your inbound network security to allow all traffics…that is what was preventing Precious from SSHing into her created instance from her computer terminal
+This may help others…if you use terraform to create your instances, make sure you configure your inbound network security to allow all traffics…that is what was preventing Precious from SSHing into her created instance from her computer terminal. Git Introduction
+Configure Git
+Set the name and email that will be attached to your commits
+
+git config --global user.name “Your Name” 
+git config --global user.email “you@example.com” 
+
+Create a new folder to store project file
+mkdir devops-demo
+cd devops-demo/
+touch proj_file_1
+add text to the project file
+nano proj_file_1 (Or use vim)
+cat proj_file_1
+
+Initialize a git repository 
+cd <your project directory>
+git init
+
