@@ -1,0 +1,1 @@
+This may help others…if you use terraform to create your instances, make sure you configure your inbound network security to allow all traffics…that is what was preventing Precious from SSHing into her created instance from her computer terminal
